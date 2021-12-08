@@ -1,0 +1,5 @@
+*.o
+*.d
+/build/
+firmware.bin
+firmware.elf
